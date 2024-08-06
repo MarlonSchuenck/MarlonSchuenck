@@ -27,10 +27,8 @@ Softskills:
 
 Meu compromisso com princípios éticos, atitude positiva, proatividade e excelência no trabalho em equipe são os alicerces da minha abordagem profissional. Sou analítico, detalhista e flexível, características que me permitem superar desafios.
 
-
  <div>
   <a href="https://www.linkedin.com/in/marlon-schuenck-818892289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</a>
 
   <div style="display: inline_bock"><br>
 
@@ -43,12 +41,6 @@ Meu compromisso com princípios éticos, atitude positiva, proatividade e excel�
   <img align="center" height="40" width="40" src="https://www.svgrepo.com/show/373542/cypress.svg" />
 
   <img img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        
-    
+          
   </div>
   
- ###  
-  
-   ![Snake animation](https://github.com/JessicaSoobral/JessicaSoobral/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
